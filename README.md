@@ -26,6 +26,5 @@
 ---
 
 ### 📫 Connect with Me
-- 📍 Dorado, Windhoek, Namibia  
-- 💼 LinkedIn: [Your LinkedIn Profile Link]  
+- 📍 Dorado, Windhoek, Namibia   
 - 🌐 Portfolio: *(Coming Soon)*  
