@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mafwila Ilishebo  
 
-💻 **2nd-Year Informatics Student** @ Namibia University of Science and Technology  
+💻 **Informatics Student** @ Namibia University of Science and Technology  
 🚀 Passionate about technology, coding, and problem-solving  
 📊 Interested in software development, databases, and system design  
 
